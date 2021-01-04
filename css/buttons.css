@@ -1,0 +1,56 @@
+button{
+    text-transform: uppercase;
+    cursor: pointer;
+}
+.button-right{
+    color: white;
+    background-color: #F35D00;
+    cursor: pointer;
+    height: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: 10px;
+    align-self: center;
+    border-radius: 20px;
+    margin-left: 30px;
+   
+}
+button:focus{
+   outline:none;
+   }
+
+.search-button{
+    background-color: #F35D00;
+    align-self: center;
+    height: 46px;
+    display: flex;
+
+}
+
+.button-row2{
+    height: 46px;
+    align-self: center;
+    margin:auto;
+    background: transparent;
+    color: white;
+    padding: 10px 30px 10px 30px;
+    border: white 1px solid;   
+}
+.buttons-row3{
+    height: 50px;
+    width: 25%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    color: white;
+    font-size: 20px;
+    border: none;
+}
+.button-collor1{
+    background-color: #F35D00;
+}
+.button-collor2{
+    background-color: #02306C;
+}
+.button-collor3{
+    background-color: #1358A5;
+}
