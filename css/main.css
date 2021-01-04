@@ -90,6 +90,7 @@ main{
     align-items: center;
     flex-direction: column;
     background-image: url('../img/book.png');
+    object-fit: contain;
     height: 370px;
     background-repeat: no-repeat;
     justify-content: center;
